@@ -2,7 +2,7 @@
 
 #This animation is referencing from [Sortable list view for react-native](https://github.com/gitim/react-native-sortable-list)
 
-Drag and Drop animation on list items is an advance animation and can be use to replace items with selected one.
+Customized drag-n-drop component that allows users to replace the content of the drop location with the dragged one
 
 Version 1.0.0 supports react-native >= 0.29.0
 
