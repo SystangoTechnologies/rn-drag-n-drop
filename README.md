@@ -1,6 +1,6 @@
-### rn-drag-n-drop
+# rn-drag-n-drop
 
-# This animation is referencing from [Sortable list view for react-native](https://github.com/gitim/react-native-sortable-list)
+#### This animation is referencing from [Sortable list view for react-native](https://github.com/gitim/react-native-sortable-list)
 
 Customized drag-n-drop component that allows users to replace the content of the drop location with the dragged one
 
