@@ -1,0 +1,45 @@
+{
+  "name": "rn-drag-n-drop",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.29.0"
+  },
+  "version": "1.0.0",
+  "description": "Drag and drop animation on list items.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SystangoTechnologies/rn-drag-n-drop.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "react-component",
+    "drag and drop",
+    "drag",
+    "drop",
+    "list"
+  ],
+  "author": {
+    "name": "Sytango Technologies",
+    "email": "engineering@systango.com"
+  },
+  "maintainers": [
+    {
+      "name": "Sytango Technologies",
+      "email": "engineering@systango.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SystangoTechnologies/rn-drag-n-drop/issues"
+  },
+  "homepage": "https://github.com/SystangoTechnologies/rn-drag-n-drop#readme"
+}

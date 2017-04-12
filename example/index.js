@@ -245,7 +245,7 @@ const styles = StyleSheet.create({
 
     ...Platform.select({
       ios: {
-        width: 180,
+        width: (window.width/2) - 30,
         shadowColor: 'rgba(0,0,0,0.2)',
         shadowOpacity: 1,
         shadowOffset: {height: 2, width: 2},
@@ -253,9 +253,9 @@ const styles = StyleSheet.create({
       },
 
       android: {
-        width: window.width - 30 * 2,
+        width: (window.width/2) - 25,
         elevation: 0,
-        marginHorizontal: 30,
+        marginHorizontal: 10,
       },
     })
   },
@@ -268,7 +268,7 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontSize: 24,
+    fontSize: 20,
     color: '#222222',
   },
 });
